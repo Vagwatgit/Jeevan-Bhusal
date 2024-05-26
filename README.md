@@ -3,3 +3,4 @@ This is my first repository
 <br>
 Here we will learn about git and git hub
 Author-Jeevan Bhusal
+Vagwat git is My manager
